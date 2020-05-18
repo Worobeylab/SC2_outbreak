@@ -1,0 +1,647 @@
+Characteristics of sequences utilized in this study. We gratefully acknowledge the authors, originating and submitting laboratories of the sequences from GISAID’s EpiFlu™ Database on which this research is based. The list is detailed below.
+Accession	Virus	Collection Date	Location	Originating Laboratory	Submitting Laboratory	Authors
+EPI_ISL_444051	USA/CA-CZB-1093/2020	2020-04-27	North America/USA/California/San Francisco	UCSF Clinical Microbiology Laboratory	Chan-Zuckerberg Biohub	CZB Cliahub Consortium et al
+EPI_ISL_413456	USA/WA-S2/2020	2020-02-20	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_427531	USA/NY-WCMP4A02N/2020	2020-03-13	North America/USA/New York/Manhattan	New York-Presbyterian & Mason Lab	Mason Lab	Butler et al
+EPI_ISL_416465	USA/WA-S10/2020	2020-02-29	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417153	USA/WA-S100/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417154	USA/WA-S101/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417155	USA/WA-S102/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417156	USA/WA-S103/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417157	USA/WA-S104/2020	2020-03-05	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417158	USA/WA-S105/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417159	USA/WA-S106/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417160	USA/WA-S107/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417161	USA/WA-S108/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417162	USA/WA-S109/2020	2020-03-01	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416466	USA/WA-S11/2020	2020-03-03	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417163	USA/WA-S110/2020	2020-03-05	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417164	USA/WA-S111/2020	2020-03-07	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417165	USA/WA-S112/2020	2020-03-08	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417166	USA/WA-S113/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417167	USA/WA-S114/2020	2020-03-05	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417168	USA/WA-S115/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417169	USA/WA-S116/2020	2020-03-02	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417170	USA/WA-S117/2020	2020-03-02	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417171	USA/WA-S118/2020	2020-03-01	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417172	USA/WA-S119/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417065	USA/WA-S12/2020	2020-03-03	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417173	USA/WA-S120/2020	2020-03-01	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417174	USA/WA-S121/2020	2020-03-01	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417175	USA/WA-S122/2020	2020-03-02	North America/USA/Washington/Grant County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417066	USA/WA-S13/2020	2020-03-03	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417067	USA/WA-S14/2020	2020-03-03	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417068	USA/WA-S15/2020	2020-03-02	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417069	USA/WA-S16/2020	2020-03-03	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417070	USA/WA-S17/2020	2020-03-03	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417071	USA/WA-S18/2020	2020-03-03	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417072	USA/WA-S19/2020	2020-03-02	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417073	USA/WA-S20/2020	2020-03-02	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417074	USA/WA-S21/2020	2020-03-02	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417075	USA/WA-S22/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417076	USA/WA-S23/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417077	USA/WA-S24/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417078	USA/WA-S25/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417079	USA/WA-S26/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417080	USA/WA-S27/2020	2020-03-01	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417081	USA/WA-S28/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417082	USA/WA-S29/2020	2020-03-02	North America/USA/Washington/Grant County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_413560	USA/WA-S3/2020	2020-02-28	North America/USA/Washington/	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417083	USA/WA-S30/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417084	USA/WA-S31/2020	2020-03-02	North America/USA/Washington/Grant County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417085	USA/WA-S32/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417086	USA/WA-S33/2020	2020-03-01	North America/USA/Washington/Clark County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417087	USA/WA-S34/2020	2020-03-02	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417088	USA/WA-S35/2020	2020-03-02	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417089	USA/WA-S36/2020	2020-03-02	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417090	USA/WA-S37/2020	2020-03-04	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417091	USA/WA-S38/2020	2020-03-04	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417092	USA/WA-S39/2020	2020-03-04	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416459	USA/WA-S4/2020	2020-03-01	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417093	USA/WA-S40/2020	2020-02-28	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417094	USA/WA-S41/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417095	USA/WA-S42/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417096	USA/WA-S43/2020	2020-02-27	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417097	USA/WA-S44/2020	2020-02-28	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417098	USA/WA-S45/2020	2020-02-29	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417099	USA/WA-S46/2020	2020-02-29	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417100	USA/WA-S47/2020	2020-02-29	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417101	USA/WA-S48/2020	2020-02-29	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417102	USA/WA-S49/2020	2020-03-04	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416460	USA/WA-S5/2020	2020-02-29	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417103	USA/WA-S50/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417104	USA/WA-S51/2020	2020-03-03	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417105	USA/WA-S52/2020	2020-03-03	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417106	USA/WA-S53/2020	2020-03-03	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417107	USA/WA-S54/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417108	USA/WA-S55/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417109	USA/WA-S56/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417110	USA/WA-S57/2020	2020-03-03	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417111	USA/WA-S58/2020	2020-03-05	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417112	USA/WA-S59/2020	2020-03-02	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416461	USA/WA-S6/2020	2020-02-29	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417113	USA/WA-S60/2020	2020-03-02	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417114	USA/WA-S61/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417115	USA/WA-S62/2020	2020-03-03	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417116	USA/WA-S63/2020	2020-03-04	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417117	USA/WA-S64/2020	2020-03-03	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417118	USA/WA-S65/2020	2020-03-03	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417119	USA/WA-S66/2020	2020-03-06	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417120	USA/WA-S67/2020	2020-03-04	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417121	USA/WA-S68/2020	2020-03-04	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417122	USA/WA-S69/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416462	USA/WA-S7/2020	2020-02-24	North America/USA/Washington/	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417123	USA/WA-S70/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417124	USA/WA-S71/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417125	USA/WA-S72/2020	2020-03-06	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417126	USA/WA-S73/2020	2020-03-05	North America/USA/Washington/	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417127	USA/WA-S74/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417128	USA/WA-S75/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417129	USA/WA-S76/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417130	USA/WA-S77/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417131	USA/WA-S78/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417132	USA/WA-S79/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416463	USA/WA-S8/2020	2020-02-24	North America/USA/Washington/King County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417133	USA/WA-S80/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417134	USA/WA-S81/2020	2020-02-26	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417135	USA/WA-S82/2020	2020-02-22	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417136	USA/WA-S83/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417137	USA/WA-S84/2020	2020-02-21	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417138	USA/WA-S85/2020	2020-03-05	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417139	USA/WA-S86/2020	2020-03-01	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417140	USA/WA-S87/2020	2020-03-01	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417141	USA/WA-S88/2020	2020-03-01	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417142	USA/WA-S89/2020	2020-02-29	North America/USA/Washington/Umatilla County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416464	USA/WA-S9/2020	2020-03-01	North America/USA/Washington/Snohomish County	Seattle Flu Study	Seattle Flu Study	Chu et al
+EPI_ISL_417143	USA/WA-S90/2020	2020-02-29	North America/USA/Washington/Umatilla County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417144	USA/WA-S91/2020	2020-03-02	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417145	USA/WA-S92/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417146	USA/WA-S93/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417147	USA/WA-S94/2020	2020-02-28	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417148	USA/WA-S95/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417149	USA/WA-S96/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417150	USA/WA-S97/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417151	USA/WA-S98/2020	2020-02-29	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_417152	USA/WA-S99/2020	2020-02-28	North America/USA/Washington/King County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_416638	USA/WA-UW100/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416639	USA/WA-UW101/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416640	USA/WA-UW102/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416641	USA/WA-UW103/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416643	USA/WA-UW105/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416644	USA/WA-UW106/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416645	USA/WA-UW107/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416649	USA/WA-UW111/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416650	USA/WA-UW112/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416651	USA/WA-UW113/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416652	USA/WA-UW114/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416654	USA/WA-UW116/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416656	USA/WA-UW118/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416659	USA/WA-UW121/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416662	USA/WA-UW124/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416663	USA/WA-UW125/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416664	USA/WA-UW126/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416665	USA/WA-UW127/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416666	USA/WA-UW128/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416667	USA/WA-UW129/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416668	USA/WA-UW130/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416669	USA/WA-UW131/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416677	USA/WA-UW139/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416679	USA/WA-UW141/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416680	USA/WA-UW142/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416681	USA/WA-UW143/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416682	USA/WA-UW144/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416683	USA/WA-UW145/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416684	USA/WA-UW146/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416685	USA/WA-UW147/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416686	USA/WA-UW148/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416687	USA/WA-UW149/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414363	USA/WA-UW15/2020	2020-03-04	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416688	USA/WA-UW150/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416689	USA/WA-UW151/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416690	USA/WA-UW152/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416692	USA/WA-UW154/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416695	USA/WA-UW157/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414364	USA/WA-UW16/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416700	USA/WA-UW162/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416701	USA/WA-UW163/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416702	USA/WA-UW164/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416703	USA/WA-UW165/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416705	USA/WA-UW167/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414365	USA/WA-UW17/2020	2020-03-06	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416709	USA/WA-UW171/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416710	USA/WA-UW172/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416711	USA/WA-UW173/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416712	USA/WA-UW174/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416713	USA/WA-UW175/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416714	USA/WA-UW176/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416715	USA/WA-UW177/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416717	USA/WA-UW179/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414366	USA/WA-UW18/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416718	USA/WA-UW180/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416720	USA/WA-UW182/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416721	USA/WA-UW183/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416722	USA/WA-UW184/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416726	USA/WA-UW188/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416727	USA/WA-UW189/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414367	USA/WA-UW19/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416728	USA/WA-UW190/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417344	USA/WA-UW195/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417347	USA/WA-UW198/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417348	USA/WA-UW199/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414368	USA/WA-UW20/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417349	USA/WA-UW200/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417350	USA/WA-UW201/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417351	USA/WA-UW202/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417353	USA/WA-UW204/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417354	USA/WA-UW205/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417355	USA/WA-UW206/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417356	USA/WA-UW207/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417357	USA/WA-UW208/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417358	USA/WA-UW209/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414369	USA/WA-UW21/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417360	USA/WA-UW211/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417361	USA/WA-UW212/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417363	USA/WA-UW214/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417364	USA/WA-UW215/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417365	USA/WA-UW216/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417366	USA/WA-UW217/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417367	USA/WA-UW218/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417369	USA/WA-UW220/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417370	USA/WA-UW221/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417371	USA/WA-UW222/2020	2020-03-13	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417374	USA/WA-UW225/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417375	USA/WA-UW226/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417377	USA/WA-UW228/2020	2020-03-15	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417378	USA/WA-UW229/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414592	USA/WA-UW23/2020	2020-03-06	North America/USA/Washington/Pierce County	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417380	USA/WA-UW231/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_417381	USA/WA-UW232/2020	2020-03-14	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414593	USA/WA-UW24/2020	2020-03-05	North America/USA/Washington/King County	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414595	USA/WA-UW26/2020	2020-03-05	North America/USA/Washington/King County	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414596	USA/WA-UW27/2020	2020-03-04	North America/USA/Washington/King County	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414597	USA/WA-UW28/2020	2020-03-04	North America/USA/Washington/King County	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414617	USA/WA-UW30/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414618	USA/WA-UW31/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414619	USA/WA-UW32/2020	2020-03-07	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414620	USA/WA-UW33/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414621	USA/WA-UW34/2020	2020-03-07	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_414622	USA/WA-UW35/2020	2020-03-08	North America/USA/Washington/Seattle	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416453	USA/WA-UW36/2020	2020-03-07	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416454	USA/WA-UW37/2020	2020-03-06	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416455	USA/WA-UW38/2020	2020-03-07	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416456	USA/WA-UW39/2020	2020-03-06	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415605	USA/WA-UW40/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415606	USA/WA-UW41/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415607	USA/WA-UW42/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415608	USA/WA-UW43/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415609	USA/WA-UW44/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415610	USA/WA-UW45/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415611	USA/WA-UW46/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415612	USA/WA-UW47/2020	2020-03-09	North America/USA/Washington/Seattle	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415613	USA/WA-UW48/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415614	USA/WA-UW49/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415615	USA/WA-UW50/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415616	USA/WA-UW51/2020	2020-03-08	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415617	USA/WA-UW52/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415618	USA/WA-UW53/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415619	USA/WA-UW54/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415620	USA/WA-UW55/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415621	USA/WA-UW56/2020	2020-03-09	North America/USA/Washington/Seattle	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415622	USA/WA-UW57/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415623	USA/WA-UW58/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415624	USA/WA-UW59/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415626	USA/WA-UW61/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415627	USA/WA-UW62/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415591	USA/WA-UW63/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415592	USA/WA-UW64/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415594	USA/WA-UW66/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415595	USA/WA-UW67/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415596	USA/WA-UW68/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415598	USA/WA-UW70/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415599	USA/WA-UW71/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415600	USA/WA-UW72/2020	2020-03-09	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415602	USA/WA-UW74/2020	2020-03-10	North America/USA/Washington/Seattle	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415603	USA/WA-UW75/2020	2020-03-10	North America/USA/Washington/Seattle	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_415604	USA/WA-UW76/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416433	USA/WA-UW77/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416435	USA/WA-UW79/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416436	USA/WA-UW80/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416437	USA/WA-UW81/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416439	USA/WA-UW83/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416440	USA/WA-UW84/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416441	USA/WA-UW85/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416442	USA/WA-UW86/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416443	USA/WA-UW87/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416444	USA/WA-UW88/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416445	USA/WA-UW89/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416446	USA/WA-UW90/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416447	USA/WA-UW91/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416448	USA/WA-UW92/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416450	USA/WA-UW94/2020	2020-03-11	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416451	USA/WA-UW95/2020	2020-03-10	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416635	USA/WA-UW97/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416636	USA/WA-UW98/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_416637	USA/WA-UW99/2020	2020-03-12	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_404895	USA/WA1/2020	2020-01-19	North America/USA/Washington/Snohomish County	Providence Regional Medical Center	Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+EPI_ISL_413562	USA/WA11-UW7/2020	2020-03-02	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413563	USA/WA12-UW8/2020	2020-03-03	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413601	USA/WA13-UW9/2020	2020-03-02	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413649	USA/WA14-UW10/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413650	USA/WA15-UW11/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413651	USA/WA16-UW12/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413652	USA/WA17-UW13/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413653	USA/WA18-UW14/2020	2020-03-05	North America/USA/Washington/	UW Virology Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_412970	USA/WA2/2020	2020-02-24	North America/USA/Washington/Snohomish County	Washington State Department of Health	Seattle Flu Study	Chu et al
+EPI_ISL_413455	USA/WA4-UW2/2020	2020-02-28	North America/USA/Washington/	Washington State Public Health Lab	University of Washington Virology Lab	Roychoudhury et al
+EPI_ISL_413457	USA/WA6-UW3/2020	2020-02-29	North America/USA/Washington/	Washington State Public Health Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413458	USA/WA7-UW4/2020	2020-03-01	North America/USA/Washington/	Washington State Public Health Lab	UW Virology Lab	Roychoudhury et al
+EPI_ISL_413486	USA/WA8-UW5/2020	2020-03-01	North America/USA/Washington/	Valley Medical Center	University of Washington Virology Lab	Roychoudhury et al
+EPI_ISL_413487	USA/WA9-UW6/2020	2020-03-01	North America/USA/Washington/	Harborview Medical Center	University of Washington Virology Lab	Roychoudhury et al
+EPI_ISL_414476	USA/NY1-PV08001/2020	2020-02-29	North America/USA/New York/	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Patel et al
+EPI_ISL_415151	USA/NY2-PV08100/2020	2020-03-04	North America/USA/New York/	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Patel et al
+EPI_ISL_421348	USA/NY-PV08109/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421350	USA/NY-PV08121/2020	2020-03-17	North America/USA/New York/	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421429	USA/NY-PV08493/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421355	USA/NY-PV08127/2020	2020-03-14	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421413	USA/NY-PV08469/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421376	USA/NY-PV08413/2020	2020-03-16	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421421	USA/NY-PV08481/2020	2020-03-18	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421375	USA/NY-PV08412/2020	2020-03-16	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421360	USA/NY-PV08138/2020	2020-03-13	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421404	USA/NY-PV08455/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421415	USA/NY-PV08472/2020	2020-03-13	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421420	USA/NY-PV08478/2020	2020-03-18	North America/USA/New York/Bronx	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421407	USA/NY-PV08461/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421386	USA/NY-PV08428/2020	2020-03-19	North America/USA/New York/Bronx	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421363	USA/NY-PV08143/2020	2020-03-17	North America/USA/New York/Westchester County	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421409	USA/NY-PV08463/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421367	USA/NY-PV08150/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421370	USA/NY-PV08402/2020	2020-03-16	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421379	USA/NY-PV08416/2020	2020-03-17	North America/USA/New York/Bronx	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421354	USA/NY-PV08125/2020	2020-03-13	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421385	USA/NY-PV08427/2020	2020-03-19	North America/USA/New York/	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421395	USA/NY-PV08444/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421402	USA/NY-PV08452/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421403	USA/NY-PV08453/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421411	USA/NY-PV08466/2020	2020-03-18	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421417	USA/NY-PV08474/2020	2020-03-17	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421428	USA/NY-PV08492/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421396	USA/NY-PV08445/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421399	USA/NY-PV08448/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421400	USA/NY-PV08449/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421405	USA/NY-PV08456/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421401	USA/NY-PV08450/2020	2020-03-17	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421432	USA/NY-PV08496/2020	2020-03-17	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421391	USA/NY-PV08436/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421419	USA/NY-PV08477/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421384	USA/NY-PV08426/2020	2020-03-18	North America/USA/New York/	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421388	USA/NY-PV08432/2020	2020-03-18	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421389	USA/NY-PV08434/2020	2020-03-18	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421422	USA/NY-PV08485/2020	2020-03-17	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421416	USA/NY-PV08473/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421423	USA/NY-PV08486/2020	2020-03-18	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421397	USA/NY-PV08446/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421366	USA/NY-PV08149/2020	2020-03-15	North America/USA/New York/Westchester County	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421390	USA/NY-PV08435/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421424	USA/NY-PV08487/2020	2020-03-18	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421434	USA/NY-PV08500/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421383	USA/NY-PV08425/2020	2020-03-18	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421406	USA/NY-PV08459/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421427	USA/NY-PV08491/2020	2020-03-17	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421430	USA/NY-PV08494/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421412	USA/NY-PV08468/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421378	USA/NY-PV08415/2020	2020-03-16	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421349	USA/NY-PV08120/2020	2020-03-17	North America/USA/New York/	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421351	USA/NY-PV08122/2020	2020-03-11	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421352	USA/NY-PV08123/2020	2020-03-14	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421353	USA/NY-PV08124/2020	2020-03-14	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421431	USA/NY-PV08495/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421369	USA/NY-PV08401/2020	2020-03-16	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421361	USA/NY-PV08139/2020	2020-03-17	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421408	USA/NY-PV08462/2020	2020-03-18	North America/USA/New York/Bronx	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421394	USA/NY-PV08443/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421398	USA/NY-PV08447/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421387	USA/NY-PV08429/2020	2020-03-19	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421414	USA/NY-PV08471/2020	2020-03-18	North America/USA/New York/Bronx	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421371	USA/NY-PV08403/2020	2020-03-17	North America/USA/New York/Brooklyn	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_412912	Germany/Baden-Wuerttemberg-1/2020	2020-02-25	Europe/Germany/Baden-Wuerttemberg/	State Health Office Baden-Wuerttemberg	Charite Universitatsmedizin Berlin, Institute of Virology	Corman et al
+EPI_ISL_412971	Finland/FIN-25/2020	2020-02-25	Europe/Finland/Helsinki/	HUS Diagnostiikkakeskus, Hallinto	Department of Virology Faculty of Medicine, Medicum University of Helsinki	Smura et al
+EPI_ISL_413604	Finland/FIN03032020C/2020	2020-03-03	Europe/Finland/Helsinki/	Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland	Department of Virology, Faculty of Medicine, University of Helsinki, Helsinki, Finland	Smura et al
+EPI_ISL_413602	Finland/FIN03032020A/2020	2020-03-03	Europe/Finland/Helsinki/	Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland	Department of Virology, Faculty of Medicine, University of Helsinki, Helsinki, Finland	Smura et al
+EPI_ISL_421357	USA/NY-PV08135/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421359	USA/NY-PV08137/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421358	USA/NY-PV08136/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421364	USA/NY-PV08146/2020	2020-03-17	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421365	USA/NY-PV08148/2020	2020-03-14	North America/USA/New York/Bronx	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_408489	Taiwan/NTU01/2020	2020-01-31	Asia/Taiwan/Taiwan/Taipei	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Yeh et al
+EPI_ISL_410535	Singapore/4/2020	2020-02-03	Asia/Singapore/Singapore/Singapore	National Centre for Infectious Diseases	Programme in Emerging Infectious Diseases, Duke-NUS Medical School	Anderson et al
+EPI_ISL_413594	Australia/NSW08/2020	2020-02-28	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology Laboratory Services	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Rockett et al
+EPI_ISL_413596	Australia/NSW10/2020	2020-02-28	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology - Public Health	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Rockett et al
+EPI_ISL_413595	Australia/NSW09/2020	2020-02-28	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology Laboratory Services	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Rockett et al
+EPI_ISL_413598	Australia/NSW12/2020	2020-03-04	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology - Public Health	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Gray et al
+EPI_ISL_413597	Australia/NSW11/2020	2020-03-02	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology- Public Health	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Lam et al
+EPI_ISL_413600	Australia/NSW14/2020	2020-03-03	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology - Public Health	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Gall et al
+EPI_ISL_413599	Australia/NSW13/2020	2020-03-04	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology - Public Health	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Timms et al
+EPI_ISL_421410	USA/NY-PV08464/2020	2020-03-18	North America/USA/New York/Manhattan	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_402119	Wuhan/IVDC-HB-01/2019	2019-12-30	Asia/China/Hubei/Wuhan	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control and Prevention, China CDC	Tan et al
+EPI_ISL_402124	Wuhan/WIV04/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+EPI_ISL_402129	Wuhan/WIV06/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+EPI_ISL_403929	Wuhan/IPBCAMS-WH-04/2019	2019-12-30	Asia/China/Hubei/Wuhan	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+EPI_ISL_403962	Thailand/61/2020	2020-01-08	Asia/Thailand/Nonthaburi/Bangkok	Bamrasnaradura Hospital	1. Department of Medical Sciences, Ministry of Public Health, Thailand 2. Thai Red Cross Emerging Infectious Diseases - Health Science Centre 3. Department of Disease Control, Ministry of Public Health, Thailand	Pilailuk et al
+EPI_ISL_403963	Thailand/74/2020	2020-01-13	Asia/Thailand/Nonthaburi/Bangkok	Bamrasnaradura Hospital	1. Department of Medical Sciences, Ministry of Public Health, Thailand 2. Thai Red Cross Emerging Infectious Diseases - Health Science Centre 3. Department of Disease Control, Ministry of Public Health, Thailand	Pilailuk et al
+EPI_ISL_406538	Guangdong/20SF201/2020	2020-01-23	Asia/China/Guangdong/	Guangdong Provincial Center for Diseases Control and Prevention;Guangdong Provincial Institute of Public Health	Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_406716	Wuhan/WHU01/2020	2020-01-02	Asia/China/Hubei/Wuhan	unknown	State Key Laboratory of Virology, Wuhan University	Chen et al
+EPI_ISL_406717	Wuhan/WHU02/2020	2020-01-02	Asia/China/Hubei/Wuhan	unknown	State Key Laboratory of Virology, Wuhan University	Chen et al
+EPI_ISL_406800	Wuhan/WH03/2020	2020-01-01	Asia/China/Hubei/Wuhan	General Hospital of Central Theater Command of People's Liberation Army of China	BGI & Institute of Microbiology, Chinese Academy of Sciences & Shandong First Medical University & Shandong Academy of Medical Sciences & General Hospital of Central Theater Command of People's Liberation Army of China	Chen et al
+EPI_ISL_406970	Hangzhou/HZ-1/2020	2020-01-20	Asia/China/Zhejiang/Hangzhou	Hangzhou Center for Disease and Control Microbiology Lab	Hangzhou Center for Disease and Control Microbiology Lab	Hua et al
+EPI_ISL_408479	Chongqing/ZX01/2020	2020-01-23	Asia/China/Chongqing/Zhongxian	Zhongxian Center for Disease Control and Prevention	Chongqing Municipal Center for Disease Control and Prevention	Sheng et al
+EPI_ISL_410531	Japan/NA-20-05-1/2020	2020-01-25	Asia/Japan/Nara/	Dept. of Pathology, National Institute of Infectious Diseases	Pathogen Genomics Center, National Institute of Infectious Diseases	Sekizuka et al
+EPI_ISL_410532	Japan/OS-20-07-1/2020	2020-01-23	Asia/Japan/Osaka/	Dept. of Pathology, National Institute of Infectious Diseases	Pathogen Genomics Center, National Institute of Infectious Diseases	Sekizuka et al
+EPI_ISL_411953	Jiangsu/JS03/2020	2020-01-24	Asia/China/Jiangsu/	NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology	Jiangsu Provincial Center for Disease Control & Prevention	Zhao et al
+EPI_ISL_412026	Hefei/2/2020	2020-02-23	Asia/China/Anhui/Hefei	Second Hospital of Anhui Medical University	Second Hospital of Anhui Medical University	Wang et al
+EPI_ISL_412899	Wuhan/HBCDC-HB-03/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_402125	Wuhan-Hu-1/2019	2019-12-26	Asia/China/Hubei/Wuhan	unknown	National Institute for Communicable Disease Control and Prevention (ICDC) Chinese Center for Disease Control and Prevention (China CDC)	Zhang et al
+EPI_ISL_403931	Wuhan/IPBCAMS-WH-02/2019	2019-12-30	Asia/China/Hubei/Wuhan	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+EPI_ISL_402132	Wuhan/HBCDC-HB-01/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_407079	Finland/1/2020	2020-01-29	Europe/Finland/Finland/Rovaniemi	Lapland Central Hospital	Department of Virology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland	Smura et al
+EPI_ISL_403936	Guangdong/20SF028/2020	2020-01-17	Asia/China/Guangdong/Zhuhai	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_403937	Guangdong/20SF040/2020	2020-01-18	Asia/China/Guangdong/Zhuhai	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_406531	Guangdong/20SF174/2020	2020-01-22	Asia/China/Guangdong/Zhuhai	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provinical Public Health	Guangdong Provincial Center for Disease Control and Prevention	Kang et al
+EPI_ISL_403930	Wuhan/IPBCAMS-WH-03/2019	2019-12-30	Asia/China/Hubei/Wuhan	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+EPI_ISL_403934	Guangdong/20SF014/2020	2020-01-15	Asia/China/Guangdong/Shenzhen	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_406973	Singapore/1/2020	2020-01-23	Asia/Singapore/Singapore/Singapore	Singapore General Hospital	National Public Health Laboratory	Mak et al
+EPI_ISL_408431	France/IDF0626/2020	2020-01-29	Europe/France/Ile de France/Paris	Sorbonne Universite, Inserm et Assistance Publique-Hopitaux de Paris (Pitie Salpetriere)	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+EPI_ISL_408486	Jiangxi/IVDC-JX-002/2020	2020-01-11	Asia/China/Jiangxi/Pingxiang	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control & Prevention, CCDC	Tan et al
+EPI_ISL_412862	USA/CA9/2020	2020-02-23	North America/USA/California/Solano County	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+EPI_ISL_413561	USA/CA-CDPH-UC4/2020	2020-02-27	North America/USA/California/Solano County	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+EPI_ISL_402127	Wuhan/WIV02/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+EPI_ISL_411955	USA/CA8/2020	2020-02-10	North America/USA/California/	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+EPI_ISL_412898	Wuhan/HBCDC-HB-02/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_404227	Zhejiang/WZ-01/2020	2020-01-16	Asia/China/Zhejiang/Hangzhou	Zhejiang Provincial Center for Disease Control and Prevention	Department of Microbiology, Zhejiang Provincial Center for Disease Control and Prevention	Chen et al
+EPI_ISL_406535	Foshan/20SF210/2020	2020-01-22	Asia/China/Guangdong/Foshan	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_410719	Singapore/11/2020	2020-02-02	Asia/Singapore/Singapore/Singapore	National Public Health Laboratory	National Public Health Laboratory	Octavia et al
+EPI_ISL_411066	Fujian/13/2020	2020-01-22	Asia/China/Fujian/	Fujian Center for Disease Control and Prevention	Fujian Center for Disease Control and Prevention	Wei et al
+EPI_ISL_408010	USA/CA5/2020	2020-01-29	North America/USA/California/	California Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+EPI_ISL_407987	Singapore/2/2020	2020-01-25	Asia/Singapore/Singapore/Singapore	Singapore General Hospital	Programme in Emerging Infectious Diseases, Duke-NUS Medical School	Anderson et al
+EPI_ISL_410537	Singapore/6/2020	2020-02-09	Asia/Singapore/Singapore/Singapore	Singapore General Hospital, Molecular Laboratory, Division of Pathology	Programme in Emerging Infectious Diseases, Duke-NUS Medical School	Anderson et al
+EPI_ISL_413883	Guangdong/GD2020134-P0031/2020	2020-02-02	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413861	Guangdong/GD2020080-P0010/2020	2020-02-01	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_408514	env/Wuhan/IVDC-HBF13-20/2020	2020-01-01	Asia/China/Hubei/Wuhan	Institute of Viral Disease Control and Prevention, China CDC	Institute of Viral Disease Control and Prevention, China CDC	Liu et al
+EPI_ISL_413884	Guangdong/GD2020115-P0009/2020	2020-02-01	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413888	Guangdong/2020XN4239-P0034/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413852	Guangdong/2020XN4433-P0040/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_410218	Taiwan/NTU02/2020	2020-02-05	Asia/Taiwan/Taiwan/Taipei	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Yeh et al
+EPI_ISL_406534	Foshan/20SF207/2020	2020-01-22	Asia/China/Guangdong/Foshan	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_406594	Shenzhen/SZTH-003/2020	2020-01-16	Asia/China/Guangdong/Shenzhen	Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital	Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital	Yang et al
+EPI_ISL_411950	Jiangsu/JS01/2020	2020-01-23	Asia/China/Jiangsu/	NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology	Jiangsu Provincial Center for Disease Control & Prevention	Cui et al
+EPI_ISL_402120	Wuhan/IVDC-HB-04/2020	2020-01-01	Asia/China/Hubei/Wuhan	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control and Prevention, China CDC	Tan et al
+EPI_ISL_402121	Wuhan/IVDC-HB-05/2019	2019-12-30	Asia/China/Hubei/Wuhan	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control and Prevention, China CDC	Tan et al
+EPI_ISL_402128	Wuhan/WIV05/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+EPI_ISL_413693	China/WF0003/2020	2020-01-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_403928	Wuhan/IPBCAMS-WH-05/2020	2020-01-01	Asia/China/Hubei/Wuhan	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+EPI_ISL_413866	Guangdong/GDSZ202008-P0020/2020	2020-02-05	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_411902	Cambodia/0012/2020	2020-01-27	Asia/Cambodia/Sihanoukville/	Virology Unit, Institut Pasteur du Cambodge.	Virology Unit, Institut Pasteur du Cambodge (Sequencing done by: Jessica E Manning/Jennifer A Bohl at Malaria and Vector Research Research Laboratory, National Institute of Allergy and Infectious Diseases and Vida Ahyong from Chan-Zuckerberg Biohub)	Karlsson et al
+EPI_ISL_413558	USA/CA-CDPH-UC2/2020	2020-02-27	North America/USA/California/Solano County	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+EPI_ISL_413559	USA/CA-CDPH-UC3/2020	2020-02-27	North America/USA/California/Solano County	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+EPI_ISL_406533	Guangzhou/20SF206/2020	2020-01-22	Asia/China/Guangdong/Guangzhou	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provinical Public Health	Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_412966	China/IQTC01/2020	2020-02-05	Asia/China/Guangdong/Guangzhou	unknown	Technology Centre, Guangzhou Customs	Shi et al
+EPI_ISL_413864	Guangdong/GD2020246-P0028/2020	2020-02-09	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_408008	USA/CA3/2020	2020-01-29	North America/USA/California/	California Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+EPI_ISL_408009	USA/CA4/2020	2020-01-29	North America/USA/California/	California Department of Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+EPI_ISL_402130	Wuhan/WIV07/2019	2019-12-30	Asia/China/Hubei/Wuhan	Wuhan Jinyintan Hospital	Wuhan Institute of Virology, Chinese Academy of Sciences	Zhou et al
+EPI_ISL_413692	China/WF0002/2020	2020-01-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413694	China/WF0004/2020	2020-01-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_402123	Wuhan/IPBCAMS-WH-01/2019	2019-12-24	Asia/China/Hubei/Wuhan	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College	Ren et al
+EPI_ISL_406031	Taiwan/2/2020	2020-01-23	Asia/Taiwan/Taiwan/Kaohsiung	Centers for Disease Control, R.O.C. (Taiwan)	Centers for Disease Control, R.O.C. (Taiwan)	Yang et al
+EPI_ISL_406036	USA/CA2/2020	2020-01-22	North America/USA/California/Orange County	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Uehara et al
+EPI_ISL_410536	Singapore/5/2020	2020-02-06	Asia/Singapore/Singapore/Singapore	Singapore General Hospital, Molecular Laboratory, Division of Pathology	Programme in Emerging Infectious Diseases, Duke-NUS Medical School	Anderson et al
+EPI_ISL_410715	Singapore/9/2020	2020-02-04	Asia/Singapore/Singapore/Singapore	National Public Health Laboratory, National Centre for Infectious Diseases	National Public Health Laboratory, National Centre for Infectious Diseases	Octavia et al
+EPI_ISL_410716	Singapore/10/2020	2020-02-04	Asia/Singapore/Singapore/Singapore	National Public Health Laboratory, National Centre for Infectious Diseases	National Centre for Infectious Diseases, National Centre for Infectious Diseases	Octavia et al
+EPI_ISL_410713	Singapore/7/2020	2020-01-27	Asia/Singapore/Singapore/Singapore	National Public Health Laboratory, National Centre for Infectious Diseases	National Public Health Laboratory, National Centre for Infectious Diseases	Octavia et al
+EPI_ISL_406596	France/IDF0372/2020	2020-01-23	Europe/France/Ile de France/Paris	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+EPI_ISL_411219	France/IDF0386-islP1/2020	2020-01-28	Europe/France/Ile de France/Paris	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	Laboratoire Virpath, CIRI U111, UCBL1, INSERM, CNRS, ENS Lyon	Terrier et al
+EPI_ISL_413863	Guangdong/GD2020087-P0008/2020	2020-02-01	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_407988	Singapore/3/2020	2020-02-01	Asia/Singapore/Singapore/Singapore	National Centre for Infectious Diseases	Programme in Emerging Infectious Diseases, Duke-NUS Medical School	Anderson et al
+EPI_ISL_408481	Chongqing/IVDC-CQ-001/2020	2020-01-18	Asia/China/Chongqing/	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control & Prevention, CCDC	Tan et al
+EPI_ISL_412030	HongKong/VB20026565/2020	2020-02-01	Asia/Hong Kong/Hong Kong/	Hong Kong Department of Health	School of Public Health, The University of Hon g Kong	Dominic N.C. Tsang et al
+EPI_ISL_412968	Japan/Hu_DP_Kng_19-020/2020	2020-02-10	Asia/Japan/Kanagawa/	unknown	Takayuki Hishiki Kanagawa Prefectural Institute of Public Health, Department of Microbiology	Hishiki et al
+EPI_ISL_412969	Japan/Hu_DP_Kng_19-027/2020	2020-02-10	Asia/Japan/Kanagawa/	unknown	Takayuki Hishiki Kanagawa Prefectural Institute of Public Health, Department of Microbiology	Hishiki et al
+EPI_ISL_408430	France/IDF0515/2020	2020-01-29	Europe/France/Ile de France/Paris	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+EPI_ISL_411218	France/IDF0571/2020	2020-02-02	Europe/France/Ile de France/Paris	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	Laboratoire Virpath, CIRI U111, UCBL1, INSERM, CNRS, ENS Lyon	Terrier et al
+EPI_ISL_410545	Italy/INMI1-isl/2020	2020-01-29	Europe/Italy/Lazio/Rome	INMI Lazzaro Spallanzani IRCCS	Laboratory of Virology, INMI Lazzaro Spallanzani IRCCS	Capobianchi et al
+EPI_ISL_412974	Italy/SPL1/2020	2020-01-29	Europe/Italy/Lazio/Rome	Department of Infectious Diseases, Istituto Superiore di Sanita, Rome, Italy	Virology Laboratory, Scientific Department, Army Medical Center	Stefanelli et al
+EPI_ISL_413850	Guangdong/GDFS2020054-P0005/2020	2020-02-10	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_412116	England/09c/2020	2020-02-09	Europe/United Kingdom/England/	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Galiano et al
+EPI_ISL_413603	Finland/FIN03032020B/2020	2020-03-03	Europe/Finland/Helsinki/	Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland	Department of Virology, Faculty of Medicine, University of Helsinki, Helsinki, Finland	Smura et al
+EPI_ISL_413016	Brazil/SPBR-02/2020	2020-02-28	South America/Brazil/Sao Paulo/Sao Paulo	Hospital Israelita Albert Einstein	Instituto Adolfo Lutz, Interdisciplinary Procedures Center, Strategic Laboratory	Jaqueline Goes de Jesus et al
+EPI_ISL_413871	Guangdong/MM-S1-P0048/2020	2020-02-28	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413875	Guangdong/GDFS2020052-P0025/2020	2020-02-10	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413869	Guangdong/FS-S42-P0046/2020	2020-02-28	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_408669	Japan/KY-V-029/2020	2020-01-29	Asia/Japan/Kyoto/Kyoto	Dept. of Virology III, National Institute of Infectious Diseases	Pathogen Genomics Center, National Institute of Infectious Diseases	Sekizuka et al
+EPI_ISL_403932	Guangdong/20SF012/2020	2020-01-14	Asia/China/Guangdong/Shenzhen	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_403933	Guangdong/20SF013/2020	2020-01-15	Asia/China/Guangdong/Shenzhen	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_403935	Guangdong/20SF025/2020	2020-01-15	Asia/China/Guangdong/Shenzhen	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Department of Microbiology, Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_406593	Shenzhen/SZTH-002/2020	2020-01-13	Asia/China/Guangdong/Shenzhen	Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital	Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital	Yang et al
+EPI_ISL_408666	Japan/TY-WK-501/2020	2020-01-31	Asia/Japan/Tokyo/Tokyo	Dept. of Virology III, National Institute of Infectious Diseases	Pathogen Genomics Center, National Institute of Infectious Diseases	Sekizuka et al
+EPI_ISL_408665	Japan/TY-WK-012/2020	2020-01-29	Asia/Japan/Tokyo/Tokyo	Dept. of Virology III, National Institute of Infectious Diseases	Pathogen Genomics Center, National Institute of Infectious Diseases	Sekizuka et al
+EPI_ISL_406223	USA/AZ1/2020	2020-01-22	North America/USA/Arizona/Phoenix	Arizona Department of Health Services	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+EPI_ISL_408480	Yunnan/IVDC-YN-003/2020	2020-01-17	Asia/China/Yunnan/Kunming	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control & Prevention, CCDC	Tan et al
+EPI_ISL_413859	Guangdong/2020XN4276-P0037/2020	2020-01-31	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_411060	Fujian/8/2020	2020-01-21	Asia/China/Fujian/	Fujian Center for Disease Control and Prevention	Fujian Center for Disease Control and Prevention	Wei et al
+EPI_ISL_406801	Wuhan/WH04/2020	2020-01-05	Asia/China/Hubei/Wuhan	General Hospital of Central Theater Command of People's Liberation Army of China	BGI & Institute of Microbiology, Chinese Academy of Sciences & Shandong First Medical University & Shandong Academy of Medical Sciences & General Hospital of Central Theater Command of People's Liberation Army of China	Chen et al
+EPI_ISL_412979	Wuhan/HBCDC-HB-03/2020	2020-01-18	Asia/China/Hubei/Wuhan	Union Hospital of Tongji Medical College, Huazhong University of Science and Technology	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_413691	China/WF0001/2020	2020-01-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413729	China/WF0015/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413746	China/WF0016/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413748	China/WF0018/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413750	China/WF0020/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_407976	Belgium/GHB-03021/2020	2020-02-03	Europe/Belgium/Flanders/Leuven	KU Leuven, Clinical and Epidemiological Virology	KU Leuven, Clinical and Epidemiological Virology	Vanmechelen et al
+EPI_ISL_413858	Guangdong/2020XN4459-P0041/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413711	China/WF0014/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413854	Guangdong/2020XN4475-P0042/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413867	Guangdong/GDSZ202015-P0019/2020	2020-02-05	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_405839	Shenzhen/HKU-SZ-005/2020	2020-01-11	Asia/China/Guangdong/Shenzhen	The University of Hong Kong - Shenzhen Hospital	Li Ka Shing Faculty of Medicine, The University of Hong Kong	Chan et al
+EPI_ISL_413809	China/WF0029/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_410717	Australia/QLD03/2020	2020-02-05	Oceania/Australia/Queensland/Gold Coast	Pathology Queensland	Public Health Virology Laboratory	Huang et al
+EPI_ISL_410718	Australia/QLD04/2020	2020-02-05	Oceania/Australia/Queensland/Gold Coast	Pathology Queensland	Public Health Virology Laboratory	Huang et al
+EPI_ISL_411954	USA/CA7/2020	2020-02-06	North America/USA/California/	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+EPI_ISL_413853	Guangdong/2020XN4243-P0035/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413860	Guangdong/2020XN4273-P0036/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_408478	Chongqing/YC01/2020	2020-01-21	Asia/China/Chongqing/Yongchuan	Yongchuan District Center for Disease Control and Prevention	Chongqing Municipal Center for Disease Control and Prevention	Sheng et al
+EPI_ISL_408667	Japan/TY-WK-521/2020	2020-01-31	Asia/Japan/Tokyo/Tokyo	Dept. of Virology III, National Institute of Infectious Diseases	Pathogen Genomics Center, National Institute of Infectious Diseases	Sekizuka et al
+EPI_ISL_413557	USA/CA-CDPH-UC1/2020	2020-02-26	North America/USA/Grand Princess/Sonoma County	California Department of Public Health	Chiu Laboratory, University of California, San Francisco	Deng et al
+EPI_ISL_412980	Wuhan/HBCDC-HB-04/2020	2020-01-18	Asia/China/Hubei/Wuhan	Union Hospital of Tongji Medical College, Huazhong University of Science and Technology	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_412982	Wuhan/HBCDC-HB-06/2020	2020-02-07	Asia/China/Hubei/Wuhan	Wuhan Lung Hospital	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_412978	Wuhan/HBCDC-HB-02/2020	2020-01-17	Asia/China/Hubei/Wuhan	The Central Hospital Of Wuhan	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_413749	China/WF0019/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413519	Beijing/231/2020	2020-01-28	Asia/China/Beijing/	unknown	Infectious Disease Control Center	Li et al
+EPI_ISL_413521	Beijing/235/2020	2020-01-28	Asia/China/Beijing/	unknown	Infectious Disease Control Center	Li et al
+EPI_ISL_413520	Beijing/233/2020	2020-01-28	Asia/China/Beijing/	unknown	Infectious Disease Control Center	Li et al
+EPI_ISL_413697	China/WF0012/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413761	China/WF0026/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413791	China/WF0028/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413862	Guangdong/GD2020086-P0021/2020	2020-02-01	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413523	India/1-31/2020	2020-01-31	Asia/India/Kerala/	Indian Council of Medical Research-National Institute of Virology	National Influenza Center, Indian Council of Medical Research-National Institute of Virology	Potdar et al
+EPI_ISL_407071	England/01/2020	2020-01-29	Europe/United Kingdom/England/	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Galiano et al
+EPI_ISL_407073	England/02/2020	2020-01-29	Europe/United Kingdom/England/	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Respiratory Virus Unit, Microbiology Services Colindale, Public Health England	Galiano et al
+EPI_ISL_407896	Australia/QLD02/2020	2020-01-30	Oceania/Australia/Queensland/Gold Coast	Pathology Queensland	Public Health Virology Laboratory	Huang et al
+EPI_ISL_413017	SouthKorea/KUMC01/2020	2020-02-06	Asia/South Korea/South Korea/	Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University	Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University	Kang et al
+EPI_ISL_413018	SouthKorea/KUMC02/2020	2020-02-06	Asia/South Korea/South Korea/	Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University	Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University	Kang et al
+EPI_ISL_408515	env/Wuhan/IVDC-HBF13-21/2020	2020-01-01	Asia/China/Hubei/Wuhan	Institute of Viral Disease Control and Prevention, China CDC	Institute of Viral Disease Control and Prevention, China CDC	Liu et al
+EPI_ISL_413856	Guangdong/GD2020233-P0027/2020	2020-02-07	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_404253	USA/IL1/2020	2020-01-21	North America/USA/Illinois/Chicago	IL Department of Public Health Chicago Laboratory	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Tao et al
+EPI_ISL_406034	USA/CA1/2020	2020-01-23	North America/USA/California/Los Angeles	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Uehara et al
+EPI_ISL_408484	Sichuan/IVDC-SC-001/2020	2020-01-15	Asia/China/Sichuan/Chengdu	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control & Prevention, CCDC	Tan et al
+EPI_ISL_408668	Vietnam/VR03-38142/2020	2020-01-24	Asia/Vietnam/Thanh Hoa/	National Influenza Center - National Institute of Hygiene and Epidemiology (NIHE)	National Influenza Center - National Institute of Hygiene and Epidemiology (NIHE)	Ung Thi Hong Trang et al
+EPI_ISL_410045	USA/IL2/2020	2020-01-28	North America/USA/Illinois/	IL Department of Public Health Chicago Laboratory	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Li et al
+EPI_ISL_412028	HongKong/VM20001061/2020	2020-01-22	Asia/Hong Kong/Hong Kong/Hong Kong	Hong Kong Department of Health	School of Public Health, The University of Hon g Kong	Dominic N.C. Tsang et al
+EPI_ISL_413873	Guangdong/GZ-S6-P0050/2020	2020-02-28	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_412459	Jingzhou/HBCDC-HB-01/2020	2020-01-08	Asia/China/Hubei/Jingzhou	Jingzhou Center for Disease Control and Prevention	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_409067	USA/MA1/2020	2020-01-29	North America/USA/Massachusetts/Boston	Massachusetts Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Paden et al
+EPI_ISL_412964	Brazil/SPBR-01/2020	2020-02-25	South America/Brazil/Sao Paulo/Sao Paulo	Hospital Israelita Albert Einstein	Instituto Adolfo Lutz Interdisciplinary Procedures Center Strategic Laboratory	Jaqueline Goes de Jesus et al
+EPI_ISL_412973	Italy/CDG1/2020	2020-02-20	Europe/Italy/Lombardy/	Department of Infectious Diseases, Istituto Superiore di Sanita, Roma , Italy	Virology Laboratory, Scientific Department, Army Medical Center	Stefanelli et al
+EPI_ISL_413648	Portugal/CV63/2020	2020-03-01	Europe/Portugal/Portugal/	Centro Hospitalar e Universitario de Sao Joao, Porto	Instituto Nacional de Saude (INSA)	Guiomar et al
+EPI_ISL_413022	Switzerland/1000477796/2020	2020-02-29	Europe/Switzerland/Zurich/	Division of Infectious Diseases, University Hospital Zurich	Institute of Medical Virology, University of Zurich	Schmutz et al
+EPI_ISL_413647	Portugal/CV62/2020	2020-03-01	Europe/Portugal/Portugal/	Centro Hospital do Porto, E.P.E. - H. Geral de Santo Antonio	Instituto Nacional de Saude (INSA)	Guiomar et al
+EPI_ISL_413221	Scotland/CVR01/2020	2020-03-02	Europe/United Kingdom/Scotland/	West of Scotland Specialist Virology Centre, NHSGGC	MRC-University of Glasgow Centre for Virus Research	Thomson et al
+EPI_ISL_413024	Switzerland/1000477806/2020	2020-02-29	Europe/Switzerland/Zurich/	Division of Infectious Diseases, University Hospital Zurich	Institute of Medical Virology, University of Zurich	Schmutz et al
+EPI_ISL_413489	Italy/UniSR1/2020	2020-03-03	Europe/Italy/Lombardy/Milan	Laboratorio di Microbiologia e Virologia, Universita Vita-Salute San Raffaele, Milano	Laboratorio di Microbiologia e Virologia, Universita Vita-Salute San Raffaele, Milano	R.A Diotti et al
+EPI_ISL_413021	Switzerland/1000477757/2020	2020-02-29	Europe/Switzerland/Zurich/	Klinik Hirslanden Zurich	Institute of Medical Virology, University of Zurich	Schmutz et al
+EPI_ISL_413020	Switzerland/1000477377/2020	2020-02-27	Europe/Switzerland/Zurich/	Department of Internal Medicine, Triemli Hospital	Institute of Medical Virology, University of Zurich	Schmutz et al
+EPI_ISL_413592	Taiwan/NTU03/2020	2020-03-02	Asia/Taiwan/Taiwan/Taipei	Department of Laboratory Medicine, National Taiwan University Hospital	Microbial Genomics Core Lab, National Taiwan University Centers of Genomic and Precision Medicine	Yeh et al
+EPI_ISL_413874	Guangdong/GDFS2020127-P0026/2020	2020-02-12	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_406862	Germany/BavPat1/2020	2020-01-28	Europe/Germany/Bavaria/Starnberg	Charite Universitatsmedizin Berlin, Institute of Virology; Institut fur Mikrobiologie der Bundeswehr, Munich	Charite Universitatsmedizin Berlin, Institute of Virology	Corman et al
+EPI_ISL_413555	Wales/PHW1/2020	2020-02-27	Europe/United Kingdom/Wales/	Wales Specialist Virology Centre	Public Health Wales Microbiology Cardiff	Moore et al
+EPI_ISL_407893	Australia/NSW01/2020	2020-01-24	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology Laboratory Services	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Eden et al
+EPI_ISL_408977	Australia/NSW03/2020	2020-01-25	Oceania/Australia/New South Wales/Sydney	Serology, Virology and OTDS Laboratories (SAViD), NSW Health Pathology Randwick	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Centre for Infectious Diseases and Microbiology Laboratory Services; Westmead Hospital; University of Sydney	Eden et al
+EPI_ISL_413556	Wales/PHW2/2020	2020-03-04	Europe/United Kingdom/Wales/	Wales Specialist Virology Centre	Public Health Wales Microbiology Cardiff	Moore et al
+EPI_ISL_404228	Zhejiang/WZ-02/2020	2020-01-17	Asia/China/Zhejiang/Hangzhou	Zhejiang Provincial Center for Disease Control and Prevention	Department of Microbiology, Zhejiang Provincial Center for Disease Control and Prevention	Zhang et al
+EPI_ISL_407313	Hangzhou/HZCDC0001/2020	2020-01-19	Asia/China/Zhejiang/Hangzhou	Hangzhou Center for Disease Control and Prevention	Hangzhou Center for Disease Control and Prevention	Li et al
+EPI_ISL_412870	SouthKorea/KCDC06/2020	2020-01-30	Asia/South Korea/Seoul/Seoul	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Kim et al
+EPI_ISL_412871	SouthKorea/KCDC07/2020	2020-01-31	Asia/South Korea/Seoul/Seoul	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Kim et al
+EPI_ISL_412872	SouthKorea/KCDC12/2020	2020-02-01	Asia/South Korea/Gyeonggi/Gyeonggi	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Kim et al
+EPI_ISL_407193	SouthKorea/KCDC03/2020	2020-01-25	Asia/South Korea/Gyeonggi/Gyeonggi	Korea Centers for Disease Control & Prevention (KCDC) Center for Laboratory Control of Infectious Diseases Division of Viral Diseases	Korea Centers for Disease Control & Prevention (KCDC) Center for Laboratory Control of Infectious Diseases Division of Viral Diseases	Kim et al
+EPI_ISL_412873	SouthKorea/KCDC24/2020	2020-02-06	Asia/South Korea/Chungcheongnam/Chungcheongnam	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Kim et al
+EPI_ISL_413014	Canada/ON-PHL2445/2020	2020-01-25	North America/Canada/Ontario/	Public Health Ontario Laboratory	Ontario Agency for Health Protection and Promotion (OAHPP)	Eshaghi et al
+EPI_ISL_410714	Singapore/8/2020	2020-02-03	Asia/Singapore/Singapore/Singapore	National Public Health Laboratory, National Centre for Infectious Diseases	National Public Health Laboratory, National Centre for Infectious Diseases	Octavia et al
+EPI_ISL_412029	HongKong/VB20024950/2020	2020-01-30	Asia/Hong Kong/Hong Kong/	Hong Kong Department of Health	The University of Hong Kong	Dominic N.C. Tsang et al
+EPI_ISL_408482	Shandong/IVDC-SD-001/2020	2020-01-19	Asia/China/Shandong/Qingdao	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control & Prevention, CCDC	Tan et al
+EPI_ISL_412965	Canada/BC_37_0-2/2020	2020-02-16	North America/Canada/British Columbia/	BCCDC Public Health Laboratory	BCCDC Public Health Laboratory	Harrigan et al
+EPI_ISL_412981	Wuhan/HBCDC-HB-05/2020	2020-01-18	Asia/China/Hubei/Wuhan	CR&WISCO GENERAL HOSPITAL	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_413490	NewZealand/01/2020	2020-02-27	Oceania/New Zealand/Auckland/Auckland	Auckland Hospital	Institute of Environmental Science and Research (ESR)	Storey et al
+EPI_ISL_412975	Australia/NSW05/2020	2020-02-28	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology Laboratory Services	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Eden et al
+EPI_ISL_413214	Australia/NSW07/2020	2020-02-29	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology Laboratory Services	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Eden et al
+EPI_ISL_413213	Australia/NSW06/2020	2020-02-29	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology Laboratory Services	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Eden et al
+EPI_ISL_413857	Guangdong/2020XN4448-P0002/2020	2020-01-31	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413882	Guangdong/GD2020139-P0007/2020	2020-02-02	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_408670	USA/WI1/2020	2020-01-31	North America/USA/Wisconsin/	Wisconsin Department of Health Services	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+EPI_ISL_412967	China/IQTC02/2020	2020-01-29	Asia/China/Guangdong/Guangzhou	unknown	Technology Centre, Guangzhou Customs	Shi et al
+EPI_ISL_413872	Guangdong/SZ-N59-P0049/2020	2020-02-28	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_406536	Foshan/20SF211/2020	2020-01-22	Asia/China/Guangdong/Foshan	Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health	Guangdong Provincial Center for Diseases Control and Prevention	Kang et al
+EPI_ISL_410301	Nepal/61/2020	2020-01-13	Asia/Nepal/Kathmandu/Kathmandu	National Influenza Centre, National Public Health Laboratory, Kathmandu, Nepal	The University of Hong Kong	Sah et al
+EPI_ISL_406597	France/IDF0373/2020	2020-01-23	Europe/France/Ile de France/Paris	Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris	National Reference Center for Viruses of Respiratory Infections, Institut Pasteur, Paris	Albert et al
+EPI_ISL_411951	Sweden/01/2020	2020-02-07	Europe/Sweden/Sm√•land/J√∂nk√∂ping	unknown	Unit for Laboratory Development and Technology Transfer, Public Health Agency of Sweden	Bengner et al
+EPI_ISL_411952	Jiangsu/JS02/2020	2020-01-24	Asia/China/Jiangsu/	NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology	Jiangsu Provincial Center for Disease Control & Prevention	Zhao et al
+EPI_ISL_413851	Guangdong/2020XN4373-P0039/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_408488	Jiangsu/IVDC-JS-001/2020	2020-01-19	Asia/China/Jiangsu/Huaian	National Institute for Viral Disease Control and Prevention, China CDC	National Institute for Viral Disease Control & Prevention, CCDC	Tan et al
+EPI_ISL_411956	USA/TX1/2020	2020-02-11	North America/USA/Texas/	Texas Department of State Health Services	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Queen et al
+EPI_ISL_413889	Guangdong/2020XN4291-P0038/2020	2020-01-30	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413751	China/WF0021/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_406798	Wuhan/WH01/2019	2019-12-26	Asia/China/Hubei/Wuhan	General Hospital of Central Theater Command of People's Liberation Army of China	BGI & Institute of Microbiology, Chinese Academy of Sciences & Shandong First Medical University & Shandong Academy of Medical Sciences & General Hospital of Central Theater Command of People's Liberation Army of China	Chen et al
+EPI_ISL_408978	Wuhan/WH05/2020	2020-02-07	Asia/China/Hubei/Wuhan	Wuhan Fourth Hospital	Beijing Genomics Institute (BGI)	Chen et al
+EPI_ISL_413023	Switzerland/1000477797/2020	2020-02-29	Europe/Switzerland/Zurich/	Division of Infectious Diseases, University Hospital Zurich	Institute of Medical Virology, University of Zurich	Schmutz et al
+EPI_ISL_413550	Nigeria/Lagos01/2020	2020-02-27	Africa/Nigeria/Lagos/	Centre for Human and Zoonotic Virology (CHAZVY), College of Medicine University of Lagos/Lagos University Teaching Hospital (LUTH), part of the Laboratory Network of the Nigeria Centre for Disease Control (NCDC)	African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Ede, Osun State, Nigeria	Oluniyi et al
+EPI_ISL_413565	Netherlands/Berlicum_1363564/2020	2020-02-24	Europe/Netherlands/North Brabant/Berlicum	Foundation Pamm	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413584	Netherlands/Rotterdam_1364740/2020	2020-03-03	Europe/Netherlands/South Holland/Rotterdam	unknown	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413579	Netherlands/Nootdorp_1364222/2020	2020-03-03	Europe/Netherlands/South Holland/Nootdorp	MHC Haaglanden	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413587	Netherlands/Tilburg_1364286/2020	2020-03-03	Europe/Netherlands/North Brabant/Tilburg	Foundation Elisabeth-Tweesteden Ziekenhuis	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413574	Netherlands/Helmond_1363548/2020	2020-02-29	Europe/Netherlands/North Brabant/Helmond	MHC West-Brabant	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413571	Netherlands/Eindhoven_1363782/2020	2020-03-02	Europe/Netherlands/North Brabant/Eindhoven	MHC Brabant Zuidoost	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413566	Netherlands/Blaricum_1364780/2020	2020-03-02	Europe/Netherlands/North Brabant/Blaricum	MHC Gooi & Vechtstreek	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413591	Netherlands/Zeewolde_1365080/2020	2020-03-02	Europe/Netherlands/Flevoland/Zeewolde	MHC Flevoland	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413593	Luxembourg/Lux1/2020	2020-02-29	Europe/Luxembourg/Luxembourg/	Laboratoire National de Sante	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413575	NetherlandsL/Houten_1363498/2020	2020-02-29	Europe/Netherlands/Utrecht/Houten	RIVM	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413569	Netherlands/Delft_1363424/2020	2020-02-28	Europe/Netherlands/South Holland/Delft	RIVM	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413570	Netherlands/Diemen_1363454/2020	2020-02-28	Europe/Netherlands/North Holland/Diemen	RIVM	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413572	Netherlands/Haarlem_1363688/2020	2020-03-01	Europe/Netherlands/North Holland/Haarlem	MHC Kennemerland	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413588	Netherlands/Utrecht_1363564/2020	2020-03-01	Europe/Netherlands/Utrecht/Utrecht	MHC Utrecht	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413589	Netherlands/Utrecht_1363628/2020	2020-03-01	Europe/Netherlands/Utrecht/Utrecht	MHC Utrecht	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413564	Netherlands/Andel_1365066/2020	2020-03-01	Europe/Netherlands/North Brabant/Andel	MHC West-Brabant	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413577	Netherlands/Naarden_1364774/2020	2020-03-02	Europe/Netherlands/North Holland/Naarden	MHC Gooi & Vechtstreek	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413583	Netherlands/Rotterdam_1364040/2020	2020-03-02	Europe/Netherlands/South Holland/Rotterdam	MHC Rotterdam-Rijnmond	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413573	Netherlands/Hardinxveld_Giessendam_1364806/2020	2020-03-02	Europe/Netherlands/South Holland/Hardinxveld Giessendam	Dienst Gezondheid & Jeugd Zuid-Holland Zuid	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413568	Netherlands/Dalen_1363624/2020	2020-03-01	Europe/Netherlands/Drenthe/Dalen	MHC Drente	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413576	Netherlands/Loon_op_zand_1363512/2020	2020-02-29	Europe/Netherlands/North Brabant/Loon op zand	RIVM	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413580	Netherlands/Oisterwijk_1364072/2020	2020-03-02	Europe/Netherlands/North Brabant/Oisterwijk	MHC Hart voor Brabant	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413590	Netherlands/Utrecht_1364066/2020	2020-03-02	Europe/Netherlands/Utrecht/Utrecht	MHC Utrecht	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413582	Netherlands/Rotterdam_1363790/2020	2020-03-01	Europe/Netherlands/South Holland/Rotterdam	ErasmusMC	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413581	Netherlands/Oss_1363500/2020	2020-02-29	Europe/Netherlands/North Brabant/Oss	RIVM	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413586	Netherlands/Tilburg_1363354/2020	2020-02-27	Europe/Netherlands/North Brabant/Tilburg	Foundation Elisabeth-Tweesteden Ziekenhuis	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_413488	Germany/NRW-01/2020	2020-02-28	Europe/Germany/North Rhine Westphalia/Heinsberg District	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf	Adams et al
+EPI_ISL_413753	China/WF0024/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_413019	Switzerland/1000477102/2020	2020-02-26	Europe/Switzerland/Zurich/	Department of Internal Medicine, Triemli Hospital	Institute of Medical Virology, University of Zurich	Schmutz et al
+EPI_ISL_413870	Guangdong/FS-S48-P0047/2020	2020-02-28	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_407894	Australia/QLD01/2020	2020-01-28	Oceania/Australia/Queensland/Gold Coast	Pathology Queensland	Public Health Virology Laboratory	Huang et al
+EPI_ISL_412869	SouthKorea/KCDC05/2020	2020-01-30	Asia/South Korea/Seoul/Seoul	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention	Kim et al
+EPI_ISL_412983	Tianmen/HBCDC-HB-07/2020	2020-02-08	Asia/China/Hubei/Tianmen	Tianmen Center for Disease Control and Prevention	Hubei Provincial Center for Disease Control and Prevention	Fang et al
+EPI_ISL_413485	Anhui/SZ005/2020	2020-01-24	Asia/China/Anhui/Suzhou	Department of microbiology laboratory,Anhui Provincial Center for Disease Control and Prevention	Department of microbiology laboratory,Anhui Provincial Center for Disease Control and Prevention	Li et al
+EPI_ISL_413855	Guangdong/GD2020234-P0023/2020	2020-02-07	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_413522	India/1-27/2020	2020-01-27	Asia/India/Kerala/	Indian Council of Medical Research - National Institute of Virology	National Influenza Center, Indian Council of Medical Research - National Institute of Virology	Potdar et al
+EPI_ISL_421425	USA/NY-PV08489/2020	2020-03-17	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_421433	USA/NY-PV08498/2020	2020-03-17	North America/USA/New York/Queens	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_406844	Australia/VIC01/2020	2020-01-25	Oceania/Australia/Victoria/Clayton	Monash Medical Centre	Collaboration between the University of Melbourne at The Peter Doherty Institute for Infection and Immunity, and the Victorian Infectious Disease Reference Laboratory	Caly et al
+EPI_ISL_408976	Australia/NSW02/2020	2020-01-22	Oceania/Australia/New South Wales/Sydney	Centre for Infectious Diseases and Microbiology Laboratory Services	NSW Health Pathology - Institute of Clinical Pathology and Medical Research; Westmead Hospital; University of Sydney	Rockett et al
+EPI_ISL_413868	Guangdong/DG-S9-P0045/2020	2020-02-28	Asia/China/Guangdong/	Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention	Guangdong Provincial Institution of Public Health	Lu et al
+EPI_ISL_421426	USA/NY-PV08490/2020	2020-03-17	North America/USA/New York/	MSHS Clinical Microbiology Laboratories	MSHS Pathogen Surveillance Program	Ana Gonzalez-Reiche et al
+EPI_ISL_413578	Netherlands/Nieuwendijk_1363582/2020	2020-03-01	Europe/Netherlands/North Brabant/Nieuwendijk	ErasmusMC	Erasmus Medical Center	Nieuwenhuijse et al
+EPI_ISL_412972	Mexico/CDMX-InDRE_01/2020	2020-02-27	North America/Mexico/Mexico City/	Instituto Nacional de Enfermedades Respiratorias	Instituto de Diagnostico y Referencia Epidemiologicos (INDRE)	Ernesto et al
+EPI_ISL_410044	USA/CA6/2020	2020-01-27	North America/USA/California/	California Department of Public Health	Pathogen Discovery, Respiratory Viruses Branch, Division of Viral Diseases, Centers for Disease Control and Prevention	Zhang et al
+EPI_ISL_413015	Canada/ON-VIDO-01/2020	2020-01-23	North America/Canada/Ontario/	Public Health Ontario Laboratory	National Microbiology Laboratory	Tyson et al
+EPI_ISL_407084	Japan/AI-I-004/2020	2020-01-25	Asia/Japan/Aichi/	Department of Virology III, National Institute of Infectious Diseases	Pathogen Genomics Center, National Institute of Infectious Diseases	Sekizuka et al
+EPI_ISL_410486	France/RA739/2020	2020-02-08	Europe/France/Auvergne Rhone Alpes/Contamines	CNR Virus des Infections Respiratoires - France SUD	CNR Virus des Infections Respiratoires - France SUD	Bal et al
+EPI_ISL_413605	Finland/FIN01032020/2020	2020-03-01	Europe/Finland/Helsinki/	Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland	Department of Virology, Faculty of Medicine, University of Helsinki, Helsinki, Finland	Smura et al
+EPI_ISL_413752	China/WF0023/2020	2020-02-XX	Asia/China/Shandong/	Weifang Center for Disease Control and Prevention	Weifang Center for Disease Control and Prevention & BGI-Shenzhen	Nie et al
+EPI_ISL_416473	Hangzhou/ZJU-08/2020	2020-01-26	Asia/China/Hangzhou/	State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China 310003	State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China 310003	Yao et al
+EPI_ISL_416886	Malaysia/MKAK-CL-2020-6430/2020	2020-02-04	Asia/Malaysia/Selangor/	National Public Health Laboratory	Malaysia Genome Institute	Mohd Noor Mat Isa et al
+EPI_ISL_418993	Singapore/20/2020	2020-01-29	Asia/Singapore/Singapore/Singapore	National Public Health Laboratory, National Centre for Infectious Diseases	National Public Health Laboratory, National Centre for Infectious Diseases	Mak et al
+
